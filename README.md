@@ -1,4 +1,4 @@
-# toit.io brownout
+# console.toit.io brownout
 
 The v1 version of toit.io is being shut down. Please migrate
   your devices. For example, use [Artemis](https://docs.toit.io/getstarted/fleet).
